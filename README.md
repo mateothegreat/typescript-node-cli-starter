@@ -1,5 +1,7 @@
 # Typescript Node.js CLI Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mateothegreat/typescript-node-cli-starter.svg)](https://greenkeeper.io/)
+
 ```sh
 yomateod@heman:/workspace/api/platform-api-client$ bin/platform-api-client -h
 
